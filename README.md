@@ -16,7 +16,4 @@
   <img width="35%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ryanea-exe&theme=dark&layout=compact"/>
 </p>
 
----
-[![](https://komarev.com/ghpvc/?username=ryanea-exe&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
