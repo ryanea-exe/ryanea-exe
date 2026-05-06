@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I’m Ryan Erlangga Ardiansyah<br>🌱 I study at Muhammadiyah University of Ponorogo<br>👀 I’m interested in web development and machine learning development<br>📫 How to reach me >>> my LinkedIn<br>😄 Pronouns: hi/him
+👋 I’m Ryan Erlangga Ardiansyah<br>🌱 Bachelor of Computer Science<br>👀 I’m interested in web development and machine learning development<br>😄 Pronouns: hi/him
 
 
 ## 🌐 Socials:
