@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I’m Ryan Erlangga Ardiansyah<br>🌱 I'm bachelor of Computer Science<br>👀 I’m interested in software engineer and web development
+👋 I’m Ryan Erlangga Ardiansyah<br>🌱 I'm bachelor of Computer Science<br>👀 I’m interested in software engineer & web development
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ryan-erlangga-ardiansyah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ryanhillfree23@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryanea__)
