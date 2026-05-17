@@ -16,8 +16,8 @@
 -->
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=ryanea-exe&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=ryanea-exe&theme=dark&hide_border=false" />
+  <img width="46.5%" src="https://github-readme-stats.shion.dev/api?username=ryanea-exe&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img width="51.5%" src="https://streak-stats.demolab.com/?user=ryanea-exe&theme=dark&hide_border=false" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ryanea-exe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
