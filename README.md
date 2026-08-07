@@ -2,7 +2,7 @@
 👋 I’m Ryan Erlangga Ardiansyah<br>🌱 I'm Bachelor of Computer Science<br>👀 I’m interested in Web Developer & Software Engineer
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ryan-erlangga-ardiansyah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ryanhillfree23@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryanea__) [![Portfolio](https://img.shields.io/badge/Portfolio-252529?logo=vitest&logoColor=FCC72B)](https://new-portfolio-ryan.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ryan-erlangga-ardiansyah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ryanhillfree23@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryanea__) [![Portfolio](https://img.shields.io/badge/Portfolio-252529?logo=vitest&logoColor=FCC72B)](https://ryanea.pages.dev)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
